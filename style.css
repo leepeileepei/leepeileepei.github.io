@@ -1,0 +1,34 @@
+h3 {
+    font-size: 60px;
+}
+h3:hover {
+    color: rgb(231, 226, 226);
+    background-color: rgb(83, 83, 83);
+}
+
+h1 {
+    color: rgb(83, 82, 83); /* #fff = #ffffff ; 文字顏色 */
+    font-size: 45px; /* 文字大小 */
+}
+#red {
+    color: rgb(192, 118, 140);
+}
+.text-lg {
+    font-size: 60px;
+    background: hwb(0 86% 12%);
+}
+.text-blue {
+    color: rgb(192, 118, 140);
+}
+.text-yellow {
+    color: yellow; /*後者優先*/
+}
+p {
+    color: green;
+    font-size: 60px;
+}
+
+
+/* {} 大括號 */
+/* [] 中括號 */
+/* () 小括號 */
